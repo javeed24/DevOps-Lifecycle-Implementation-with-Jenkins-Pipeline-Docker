@@ -250,9 +250,6 @@ Job3:Prod  Stop
 ### Docker Container Running
 ![Docker](screenshots/docker-running.png)
 
-### GitHub Webhook Configuration
-![Webhook](screenshots/github-webhook.png)
-
 ---
 
 ## Key Learnings
